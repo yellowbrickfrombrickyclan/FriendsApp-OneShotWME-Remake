@@ -3,9 +3,14 @@ A python script trying to replicate the friends app in the World Machine Edition
 ## 100% OF THE PYTHON SCRIPT WAS MADE USING AI(GEMINI PRO & CLAUDE)
 this is not a exact 1:1 so feel free to make any changes for yourself
 ### Requirements
+- Python
 - Pillow
 - Pygame
 - Tkinter
+### Running
+- Run the python script(app.py)
+### Notes
+- i only tested this in mint xfce linux
 ### Credits
 - Gemini
 - Claude
