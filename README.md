@@ -10,4 +10,4 @@ this is not a exact 1:1 so feel free to make any changes for yourself
 - Gemini
 - Claude
 - OneShot(the game assets)
-- [pdn6606's TWM recreation](https://github.com/pdn6606/TWM-xfce)
+- [pdn6606's TWM recreation](https://github.com/pdn6606/TWM-xfce) for the icon
