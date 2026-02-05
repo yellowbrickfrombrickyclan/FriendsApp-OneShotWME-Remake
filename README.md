@@ -12,7 +12,7 @@ this is not a exact 1:1 so feel free to make any changes for yourself
 ### Running
 - Run the python script(app.py)
 ### Notes
-- Works on Linux(I only tried one distro) and Windows
+- Works on Linux(I only tried one distro) and Windows and maybe more idk
 ### Credits
 - Gemini
 - Claude
