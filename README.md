@@ -4,13 +4,15 @@ A python script trying to replicate the friends app in the World Machine Edition
 this is not a exact 1:1 so feel free to make any changes for yourself
 ### Requirements
 - Python
+- [Volter (Goldfish) Regular](https://fontmeme.com/fonts/volter-goldfish-font/)
+- [Terminus Medium Bold](https://terminus-font.sourceforge.net/)
 - Pillow
 - Pygame
 - Tkinter
 ### Running
 - Run the python script(app.py)
 ### Notes
-- i only tested this in mint xfce linux
+- Works on Linux(I only tried one distro) and Windows
 ### Credits
 - Gemini
 - Claude
